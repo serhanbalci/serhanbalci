@@ -1,8 +1,6 @@
 <h1 align="center">Hello, I'm Serhan</h1>
 <h3 align="center">A passionate fullstack developer from Turkey</h3>
 
-- 🔭 I’m currently working on [Fabrikatör](https://www.fabrikator.io)
-
 - 🌱 I’m currently learning **ReactJS, TypeScript**
 
 - 👯 I’m looking to collaborate on [Gencleredestek](https://www.gencleredestek.com)
